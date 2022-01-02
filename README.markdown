@@ -1,5 +1,5 @@
 # Tic Tac Toe (Final)
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/kickstartcoding/pen/YzyawOo](https://codepen.io/kickstartcoding/pen/YzyawOo).
-
+This is a Tic Tac Toe game, written with React.
+I followed the unofficial react tutorial with hooks based explanations https://reactwithhooks.netlify.app/tutorial/tutorial.html
 
